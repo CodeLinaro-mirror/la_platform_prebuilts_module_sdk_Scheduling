@@ -97,6 +97,12 @@ license {
     license_text: ["licenses/build/soong/licenses/LICENSE"],
 }
 
+license {
+    name: "scheduling-sdk_opensourcerequest",
+    visibility: ["//visibility:private"],
+    license_text: ["licenses/build/soong/licenses/opensourcerequest"],
+}
+
 prebuilt_systemserverclasspath_fragment {
     name: "com.android.scheduling-systemserverclasspath-fragment",
     // Do not prefer prebuilt if the Soong config variable "source_build" in namespace "scheduling_module" is true.
