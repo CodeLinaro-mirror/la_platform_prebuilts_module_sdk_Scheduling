@@ -50,14 +50,8 @@ Landroid/scheduling/RebootRequestConditions;->equals(Ljava/lang/Object;)Z,core-p
 Landroid/scheduling/RebootRequestConditions;->hashCode()I,core-platform-api,public-api,sdk,system-api,test-api
 Landroid/scheduling/RebootRequestConditions;->toString()Ljava/lang/String;,core-platform-api,public-api,sdk,system-api,test-api
 Landroid/scheduling/RebootRequestConditions;->writeToParcel(Landroid/os/Parcel;I)V,public-api,sdk,system-api,test-api
-Landroid/scheduling/RebootSchedulerListenerService$1$1;->onError(Ljava/lang/Throwable;)V,public-api,sdk,system-api,test-api
-Landroid/scheduling/RebootSchedulerListenerService$1$1;->onResult(Ljava/lang/Object;)V,public-api,sdk,system-api,test-api
 Landroid/scheduling/RebootSchedulerListenerService;->onBind(Landroid/content/Intent;)Landroid/os/IBinder;,public-api,sdk,system-api,test-api
 Landroid/scheduling/RebootWindow;->toString()Ljava/lang/String;,core-platform-api,public-api,sdk,system-api,test-api
 Landroid/scheduling/SchedulingFrameworkInitializer$$ExternalSyntheticLambda0;->createService(Landroid/content/Context;Landroid/os/IBinder;)Ljava/lang/Object;,sdk,system-api,test-api
 Landroid/scheduling/SchedulingFrameworkInitializer$$ExternalSyntheticLambda1;->createService(Landroid/content/Context;)Ljava/lang/Object;,sdk,system-api,test-api
-Landroid/scheduling/UnifiedRebootWindow$1;->createFromParcel(Landroid/os/Parcel;)Ljava/lang/Object;,public-api,sdk,system-api,test-api
-Landroid/scheduling/UnifiedRebootWindow$1;->newArray(I)[Ljava/lang/Object;,public-api,sdk,system-api,test-api
-Landroid/scheduling/UnifiedRebootWindow;->describeContents()I,public-api,sdk,system-api,test-api
-Landroid/scheduling/UnifiedRebootWindow;->writeToParcel(Landroid/os/Parcel;I)V,public-api,sdk,system-api,test-api
 Lcom/android/scheduling/flags/CustomFeatureFlags$$ExternalSyntheticLambda0;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,sdk,system-api,test-api
